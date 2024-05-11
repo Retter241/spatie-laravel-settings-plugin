@@ -1,6 +1,6 @@
 {
     "name": "filament/spatie-laravel-settings-plugin",
-    "description": "Filament support for `spatie/laravel-settings`.",
+    "description": "Filament support for `spatie/laravel-settings` Forked-dev.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",
     "support": {
